@@ -2,6 +2,9 @@
 
 A responsive e-commerce website showcasing fashion items, upcoming sales, and payment options.
 
+![image](https://github.com/user-attachments/assets/27ad3843-f707-4f07-ad49-53512f0d23b5)
+
+
 ## 🌟 Features
 - **Responsive Design**: Works on mobile and desktop.
 - **Festival Sales Table**: Track discounts for Independence Day, Diwali, etc.
