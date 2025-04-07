@@ -2,7 +2,8 @@
 
 A responsive e-commerce website showcasing fashion items, upcoming sales, and payment options.
 
-![image](https://github.com/user-attachments/assets/27ad3843-f707-4f07-ad49-53512f0d23b5)
+![image](https://github.com/user-attachments/assets/74709792-2995-4bcc-a48d-ab1ac4e39be7)
+
 
 
 ## 🌟 Features
